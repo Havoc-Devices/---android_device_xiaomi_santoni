@@ -42,3 +42,6 @@ ro.havoc.group.url=https://t.me/havoc_santoni
 ro.havoc.maintainer=Gabriel Nogueira
 ro.havoc.maintainer.username=XDDEATH69
 
+# RAM 
+
+ro.config.low_ram=true
