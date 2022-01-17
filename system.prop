@@ -37,8 +37,8 @@ persist.device_config.runtime_native.usap_pool_enabled=true
 
 # Havoc
 
-ro.havoc.device.name= Redmi 4 (4X)
-ro.havoc.group.url=https://t.me/havoc_santoni
+ro.havoc.device.name=Xiaomi Redmi 4 / 4X
+ro.havoc.group.url=https://t.me/+o0-G5ngIeVxiYmYx
 ro.havoc.maintainer=Gabriel Nogueira
 ro.havoc.maintainer.username=XDDEATH69
 
