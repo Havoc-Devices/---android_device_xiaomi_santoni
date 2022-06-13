@@ -44,4 +44,4 @@ ro.havoc.maintainer.username=XDDEATH69
 
 # RAM 
 
-ro.config.low_ram=true
+ro.config.low_ram=false
